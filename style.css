@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+}
+.white {
+  width: 800px;
+  height: 200px;
+  background-color: white;
+}
+.blue {
+  width: 800px;
+  height: 200px;
+  background-color: blue;
+}
+.red {
+  width: 800px;
+  height: 200px;
+  background-color: red;
+}
