@@ -1,18 +1,13 @@
 body {
-  background-color: lightblue;
+  background-color: lightgrey;
 }
-.white {
+.cyan {
   width: 800px;
   height: 200px;
-  background-color: white;
+  background-color: cyan;
 }
-.blue {
+.yellow {
   width: 800px;
   height: 200px;
-  background-color: blue;
-}
-.red {
-  width: 800px;
-  height: 200px;
-  background-color: red;
+  background-color: yellow;
 }
